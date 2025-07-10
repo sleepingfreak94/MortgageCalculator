@@ -49,7 +49,7 @@ public class MortgageCalculator_ErrorHandling {
                 if(years <=0 || years > 30 ) throw new InputMismatchException();
                 break;
             } catch (InputMismatchException e) {
-                System.out.print("Enter a value between 1 and 30");
+                System.out.println("Enter a value between 1 and 30");
                 scanner.nextLine();
             }
         }
