@@ -95,10 +95,10 @@ To run the error-handling version, change it to:
 run = "javac src/com/kshitij/MortgageCalculator_ErrorHandling.java && java -cp src com.kshitij.MortgageCalculator_ErrorHandling"
 ```
 
-Repsslit (Browser-based Execution)
+Replit (Browser-based Execution)
 You can also run this project directly in your browser without installing anything:
 
-[▶️ Run on Replit](https://replit.com/@sleepingfreak94/MortgageCalculator)
+[Run on Replit](https://replit.com/@sleepingfreak94/MortgageCalculator)
 
 Make sure the .replit file has the following run command (already configured in the repo):
 
