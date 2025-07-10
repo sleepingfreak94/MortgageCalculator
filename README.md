@@ -79,7 +79,7 @@ javac src/com/kshitij/MortgageCalculator_ErrorHandling.java
 java com.kshitij.MortgageCalculator_ErrorHandling
 ```
 
-Replit (Browser-based Execution)
+Repsslit (Browser-based Execution)
 You can also run this project directly in your browser without installing anything:
 
 [▶️ Run on Replit](https://replit.com/@sleepingfreak94/MortgageCalculator)
